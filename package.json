@@ -1,0 +1,34 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "Ramda.js recipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielyaa5/recipes.git"
+  },
+  "keywords": [
+    "ramda",
+    "ramda.js",
+    "js",
+    "javascript",
+    "node",
+    "recipes",
+    "nodejs",
+    "node.js",
+    "library",
+    "recipe"
+  ],
+  "author": "danielyaa5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielyaa5/recipes/issues"
+  },
+  "homepage": "https://github.com/danielyaa5/recipes#readme",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
+}
